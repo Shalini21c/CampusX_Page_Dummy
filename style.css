@@ -1,0 +1,36 @@
+#campusX-bg{
+
+	background: #fc00ff;
+	background: -webkit-linear-gradient(to right, #0575E6, #00F260);
+	background: linear-gradient(to right, #00dbde, #00F260);
+
+}
+
+h1{
+	font-family: verdana;
+}
+
+body{
+	background-image: url('https://yt3.ggpht.com/a/AATXAJwYj3sWl21g2-9itBtvvhLmNr68yqzhpnQJFQUgtg=s100-c-k-c0xffffffff-no-rj-mo');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: 1370px 570px;
+	overflow-y: scroll;
+}
+
+.primary-text{
+	font-size: 30px;
+	padding-top: 20px;
+}
+
+.secondary-text{
+	font-size: 22px;
+	font-family: Roboto;
+	padding: 5px 40px;
+	width: 1190px;
+}
+
+.helvetica-text{
+	font-size: 20px;
+	font-family: Helvetica;
+}
